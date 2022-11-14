@@ -1,0 +1,49 @@
+.nav{
+    background-color: rgba(248, 168, 19, 0.904);
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 30px;
+    width: 100%;
+    align-items: center;
+    border-bottom:solid yellow 20px;
+    padding: 30px;
+
+}
+
+a:hover{
+    color: azure;
+}
+.images{
+    color: white;
+
+}
+.color1{
+    color:black;
+}
+
+
+.mission{
+    color: rgb(236, 82, 26);
+    background-color: rgb(46, 44, 44);
+    padding-left: 300px;
+    padding-top: 10px;
+}
+
+.mainbody{
+    background-color: orange;
+    justify-content: center;
+    padding-top: 10px;
+    margin-top:-20px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+.dw{
+    color: rgb(236, 82, 26);
+    background-color: rgb(46, 44, 44);        
+    padding-left: 500px;
+    padding-top: 10px;
+    border-top: solid yellow 20px;
+    
+    
+}
